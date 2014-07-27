@@ -29,7 +29,6 @@ Clone this repo then install dependencies into the root of the project:
 $ npm install
 ```
 
-
 ### Vagrant install
 
 Optionally, use [Vagrant](https://www.vagrantup.com/) with the
